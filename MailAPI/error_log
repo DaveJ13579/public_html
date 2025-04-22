@@ -1,0 +1,284 @@
+[08-Sep-2016 04:31:00] PHP Warning:  require_once(class.phpmailer.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/piercec4/public_html/includes/smtpmailer-phpmailer.inc.php on line 7
+[08-Sep-2016 04:31:00] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'class.phpmailer.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/piercec4/public_html/includes/smtpmailer-phpmailer.inc.php on line 7
+[08-Sep-2016 04:35:41] PHP Warning:  require_once(class.phpmailer.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/piercec4/public_html/includes/smtpmailer-phpmailer.inc.php on line 7
+[08-Sep-2016 04:35:41] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'class.phpmailer.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/piercec4/public_html/includes/smtpmailer-phpmailer.inc.php on line 7
+[08-Sep-2016 04:37:53] PHP Warning:  require_once(class.phpmailer.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/piercec4/public_html/includes/smtpmailer-phpmailer.inc.php on line 7
+[08-Sep-2016 04:37:53] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'class.phpmailer.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/piercec4/public_html/includes/smtpmailer-phpmailer.inc.php on line 7
+[08-Sep-2016 04:42:49] PHP Warning:  require_once(class.phpmailer.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/piercec4/public_html/includes/smtpmailer-phpmailer.inc.php on line 7
+[08-Sep-2016 04:42:49] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'class.phpmailer.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/piercec4/public_html/includes/smtpmailer-phpmailer.inc.php on line 7
+[08-Sep-2016 04:44:40] PHP Warning:  require_once(class.phpmailer.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/piercec4/public_html/includes/smtpmailer-phpmailer.inc.php on line 7
+[08-Sep-2016 04:44:40] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'class.phpmailer.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/piercec4/public_html/includes/smtpmailer-phpmailer.inc.php on line 7
+[08-Sep-2016 04:52:37] PHP Warning:  require_once(class.phpmailer.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/piercec4/public_html/includes/smtpmailer-phpmailer.inc.php on line 7
+[08-Sep-2016 04:52:37] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'class.phpmailer.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/piercec4/public_html/includes/smtpmailer-phpmailer.inc.php on line 7
+[08-Sep-2016 04:53:03] PHP Warning:  require_once(class.phpmailer.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home2/piercec4/public_html/includes/smtpmailer-phpmailer.inc.php on line 7
+[08-Sep-2016 04:53:03] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required 'class.phpmailer.php' (include_path='.:/usr/lib64/php:/usr/share/pear') in /home2/piercec4/public_html/includes/smtpmailer-phpmailer.inc.php on line 7
+[08-Sep-2016 05:00:43] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home2/piercec4/public_html/includes/smtpmailer-phpmailer.inc.php on line 20
+[01-Aug-2022 12:01:37 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:01:37 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:01:37 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:01:37 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[01-Aug-2022 12:01:37 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:01:37 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:01:43 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:01:43 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:01:43 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:01:43 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[01-Aug-2022 12:01:43 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:01:43 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:01:45 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:01:45 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:01:45 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:01:45 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[01-Aug-2022 12:01:45 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:01:45 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:02:04 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:02:04 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:02:04 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:02:04 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[01-Aug-2022 12:02:04 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:02:04 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:02:04 America/Los_Angeles] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home3/piercec4/public_html/MailAPI/eMailer.php:280
+Stack trace:
+#0 {main}
+  thrown in /home3/piercec4/public_html/MailAPI/eMailer.php on line 280
+[01-Aug-2022 12:02:12 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:02:12 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:02:12 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:02:12 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[01-Aug-2022 12:02:12 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:02:12 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:02:12 America/Los_Angeles] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in /home3/piercec4/public_html/MailAPI/eMailer.php:280
+Stack trace:
+#0 {main}
+  thrown in /home3/piercec4/public_html/MailAPI/eMailer.php on line 280
+[01-Aug-2022 12:08:54 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:08:54 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:08:54 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:08:54 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[01-Aug-2022 12:08:54 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:08:54 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:08:56 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:08:56 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:08:56 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:08:56 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[01-Aug-2022 12:08:56 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:08:56 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:09:13 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:09:13 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:09:13 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:09:13 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[01-Aug-2022 12:09:13 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:09:13 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:30:06 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:30:06 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:30:06 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:30:06 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[01-Aug-2022 12:30:06 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:30:06 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:30:13 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:30:13 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:30:13 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:30:13 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[01-Aug-2022 12:30:13 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:30:13 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:30:15 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:30:15 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:30:15 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[01-Aug-2022 12:30:15 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[01-Aug-2022 12:30:15 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[01-Aug-2022 12:30:15 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[03-Sep-2022 07:29:14 America/Los_Angeles] PHP Warning:  Undefined array key "MM_UserGroup" in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[12-Sep-2022 09:07:23 America/Los_Angeles] PHP Warning:  Undefined array key "MM_UserGroup" in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[25-May-2023 18:40:59 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[25-May-2023 18:40:59 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[25-May-2023 18:40:59 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[25-May-2023 18:40:59 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[25-May-2023 18:40:59 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[25-May-2023 18:40:59 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[30-May-2023 10:56:26 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:56:26 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:56:26 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:56:26 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[30-May-2023 10:56:26 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[30-May-2023 10:56:26 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[30-May-2023 10:56:59 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:56:59 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:56:59 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:56:59 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[30-May-2023 10:56:59 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[30-May-2023 10:56:59 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[30-May-2023 10:57:38 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:57:38 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:57:38 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:57:38 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[30-May-2023 10:57:38 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[30-May-2023 10:57:38 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[30-May-2023 10:57:43 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:57:43 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:57:43 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:57:43 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[30-May-2023 10:57:43 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[30-May-2023 10:57:43 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[30-May-2023 10:58:17 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:58:17 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:58:17 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:58:17 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[30-May-2023 10:58:17 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[30-May-2023 10:58:17 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[30-May-2023 10:58:44 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:58:44 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:58:44 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:58:44 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[30-May-2023 10:58:44 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[30-May-2023 10:58:44 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[30-May-2023 10:58:58 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:58:58 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:58:58 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[30-May-2023 10:58:58 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[30-May-2023 10:58:58 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[30-May-2023 10:58:58 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[05-Jul-2023 20:42:29 America/Los_Angeles] PHP Warning:  Undefined variable $attach in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 49
+[05-Jul-2023 20:42:29 America/Los_Angeles] PHP Warning:  Undefined variable $html in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 51
+[05-Jul-2023 20:43:15 America/Los_Angeles] PHP Warning:  Undefined variable $attach in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 49
+[05-Jul-2023 20:43:15 America/Los_Angeles] PHP Warning:  Undefined variable $html in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 51
+[05-Jul-2023 20:44:16 America/Los_Angeles] PHP Warning:  Undefined variable $attach in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 49
+[05-Jul-2023 20:44:16 America/Los_Angeles] PHP Warning:  Undefined variable $html in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 51
+[05-Jul-2023 20:51:21 America/Los_Angeles] PHP Warning:  Undefined variable $attach in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 49
+[05-Jul-2023 20:51:21 America/Los_Angeles] PHP Warning:  Undefined variable $html in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 51
+[05-Jul-2023 20:53:06 America/Los_Angeles] PHP Warning:  Undefined variable $attach in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 49
+[05-Jul-2023 20:53:06 America/Los_Angeles] PHP Warning:  Undefined variable $html in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 51
+[05-Jul-2023 20:57:26 America/Los_Angeles] PHP Warning:  Undefined variable $attach in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 49
+[05-Jul-2023 20:57:26 America/Los_Angeles] PHP Warning:  Undefined variable $html in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 51
+[05-Jul-2023 21:02:26 America/Los_Angeles] PHP Warning:  Undefined variable $attach in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 49
+[05-Jul-2023 21:06:02 America/Los_Angeles] PHP Warning:  require_once(1): Failed to open stream: No such file or directory in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 10
+[05-Jul-2023 21:06:02 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Failed opening required '1' (include_path='/public_html/includes') in /home3/piercec4/public_html/includes/smtpmailer.inc.php:10
+Stack trace:
+#0 /home3/piercec4/public_html/MailAPI/smtptester.php(9): smtpmail('dyates@gleanweb...', 'Test smtp', 'Hi,\n\nHow are yo...', 'info@piercecoun...')
+#1 {main}
+  thrown in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 10
+[05-Jul-2023 21:06:02 America/Los_Angeles] PHP Warning:  require_once(1): Failed to open stream: No such file or directory in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 10
+[05-Jul-2023 21:06:02 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Failed opening required '1' (include_path='/public_html/includes') in /home3/piercec4/public_html/includes/smtpmailer.inc.php:10
+Stack trace:
+#0 /home3/piercec4/public_html/MailAPI/smtptester.php(9): smtpmail('dyates@gleanweb...', 'Test smtp', 'Hi,\n\nHow are yo...', 'info@piercecoun...')
+#1 {main}
+  thrown in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 10
+[05-Jul-2023 21:06:02 America/Los_Angeles] PHP Warning:  require_once(1): Failed to open stream: No such file or directory in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 10
+[05-Jul-2023 21:06:02 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Failed opening required '1' (include_path='/public_html/includes') in /home3/piercec4/public_html/includes/smtpmailer.inc.php:10
+Stack trace:
+#0 /home3/piercec4/public_html/MailAPI/smtptester.php(9): smtpmail('dyates@gleanweb...', 'Test smtp', 'Hi,\n\nHow are yo...', 'info@piercecoun...')
+#1 {main}
+  thrown in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 10
+[05-Jul-2023 21:06:02 America/Los_Angeles] PHP Warning:  require_once(1): Failed to open stream: No such file or directory in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 10
+[05-Jul-2023 21:06:02 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Failed opening required '1' (include_path='/public_html/includes') in /home3/piercec4/public_html/includes/smtpmailer.inc.php:10
+Stack trace:
+#0 /home3/piercec4/public_html/MailAPI/smtptester.php(9): smtpmail('dyates@gleanweb...', 'Test smtp', 'Hi,\n\nHow are yo...', 'info@piercecoun...')
+#1 {main}
+  thrown in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 10
+[05-Jul-2023 21:06:02 America/Los_Angeles] PHP Warning:  require_once(1): Failed to open stream: No such file or directory in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 10
+[05-Jul-2023 21:06:02 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Failed opening required '1' (include_path='/public_html/includes') in /home3/piercec4/public_html/includes/smtpmailer.inc.php:10
+Stack trace:
+#0 /home3/piercec4/public_html/MailAPI/smtptester.php(9): smtpmail('dyates@gleanweb...', 'Test smtp', 'Hi,\n\nHow are yo...', 'info@piercecoun...')
+#1 {main}
+  thrown in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 10
+[05-Jul-2023 21:06:55 America/Los_Angeles] PHP Warning:  require_once(1): Failed to open stream: No such file or directory in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 10
+[05-Jul-2023 21:06:55 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Failed opening required '1' (include_path='/public_html/includes') in /home3/piercec4/public_html/includes/smtpmailer.inc.php:10
+Stack trace:
+#0 /home3/piercec4/public_html/MailAPI/smtptester.php(9): smtpmail('dyates@gleanweb...', 'Test smtp', 'Hi,\n\nHow are yo...', 'info@piercecoun...')
+#1 {main}
+  thrown in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 10
+[05-Jul-2023 21:07:31 America/Los_Angeles] PHP Warning:  require_once(1): Failed to open stream: No such file or directory in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 10
+[05-Jul-2023 21:07:31 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Failed opening required '1' (include_path='/public_html/includes') in /home3/piercec4/public_html/includes/smtpmailer.inc.php:10
+Stack trace:
+#0 /home3/piercec4/public_html/MailAPI/smtptester.php(9): smtpmail('dyates@gleanweb...', 'Test smtp', 'Hi,\n\nHow are yo...', 'info@piercecoun...')
+#1 {main}
+  thrown in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 10
+[05-Jul-2023 21:08:49 America/Los_Angeles] PHP Warning:  require_once(1): Failed to open stream: No such file or directory in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 10
+[05-Jul-2023 21:08:49 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Failed opening required '1' (include_path='/public_html/includes') in /home3/piercec4/public_html/includes/smtpmailer.inc.php:10
+Stack trace:
+#0 /home3/piercec4/public_html/MailAPI/smtptester.php(9): smtpmail('dyates@gleanweb...', 'Test smtp', 'Hi,\n\nHow are yo...', 'info@piercecoun...')
+#1 {main}
+  thrown in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 10
+[05-Jul-2023 21:12:03 America/Los_Angeles] PHP Warning:  require_once(1): Failed to open stream: No such file or directory in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 11
+[05-Jul-2023 21:12:03 America/Los_Angeles] PHP Fatal error:  Uncaught Error: Failed opening required '1' (include_path='/public_html/includes') in /home3/piercec4/public_html/includes/smtpmailer.inc.php:11
+Stack trace:
+#0 /home3/piercec4/public_html/MailAPI/smtptester.php(9): smtpmail('dyates@gleanweb...', 'Test smtp', 'Hi,\n\nHow are yo...', 'info@piercecoun...')
+#1 {main}
+  thrown in /home3/piercec4/public_html/includes/smtpmailer.inc.php on line 11
+[06-Jul-2023 10:49:03 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:49:03 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:49:03 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:49:03 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[06-Jul-2023 10:49:03 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[06-Jul-2023 10:49:03 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[06-Jul-2023 10:49:10 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:49:10 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:49:10 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:49:10 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[06-Jul-2023 10:49:10 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[06-Jul-2023 10:49:10 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[06-Jul-2023 10:49:12 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:49:12 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:49:12 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:49:12 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[06-Jul-2023 10:49:12 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[06-Jul-2023 10:49:12 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[06-Jul-2023 10:50:36 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:50:36 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:50:36 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:50:36 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[06-Jul-2023 10:50:36 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[06-Jul-2023 10:50:36 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[06-Jul-2023 10:53:56 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:53:56 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:53:56 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:53:56 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[06-Jul-2023 10:53:56 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[06-Jul-2023 10:53:56 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[06-Jul-2023 10:53:57 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:53:57 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:53:57 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:53:57 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[06-Jul-2023 10:53:57 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[06-Jul-2023 10:53:57 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[06-Jul-2023 10:54:06 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:54:06 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:54:06 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[06-Jul-2023 10:54:06 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[06-Jul-2023 10:54:06 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[06-Jul-2023 10:54:06 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[06-Jul-2023 12:43:14 America/Boise] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /home3/piercec4/public_html/MailAPI/smtptester2.php on line 2
+[06-Jul-2023 12:44:04 America/Boise] PHP Warning:  require(PHPMailer.php): Failed to open stream: No such file or directory in /home3/piercec4/public_html/MailAPI/smtptester2.php on line 3
+[06-Jul-2023 12:44:04 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer.php' (include_path='/public_html/includes') in /home3/piercec4/public_html/MailAPI/smtptester2.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/piercec4/public_html/MailAPI/smtptester2.php on line 3
+[06-Jul-2023 12:44:27 America/Boise] PHP Warning:  require(PHPMailer.php): Failed to open stream: No such file or directory in /home3/piercec4/public_html/MailAPI/smtptester2.php on line 3
+[06-Jul-2023 12:44:27 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer.php' (include_path='/public_html/includes') in /home3/piercec4/public_html/MailAPI/smtptester2.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/piercec4/public_html/MailAPI/smtptester2.php on line 3
+[06-Jul-2023 12:54:30 America/Boise] PHP Warning:  require(PHPMailer.php): Failed to open stream: No such file or directory in /home3/piercec4/public_html/MailAPI/smtptester2.php on line 3
+[06-Jul-2023 12:54:30 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer.php' (include_path='/public_html/includes') in /home3/piercec4/public_html/MailAPI/smtptester2.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/piercec4/public_html/MailAPI/smtptester2.php on line 3
+[20-Jul-2023 16:51:54 America/Los_Angeles] PHP Warning:  Undefined array key "MM_UserGroup" in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[31-Jul-2023 20:47:11 America/Los_Angeles] PHP Warning:  Undefined array key "MM_UserGroup" in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[09-Aug-2023 07:56:21 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[09-Aug-2023 07:56:21 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[09-Aug-2023 07:56:21 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[09-Aug-2023 07:56:21 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[09-Aug-2023 07:56:21 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[09-Aug-2023 07:56:21 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[09-Aug-2023 07:56:26 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[09-Aug-2023 07:56:26 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[09-Aug-2023 07:56:26 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[09-Aug-2023 07:56:26 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[09-Aug-2023 07:56:26 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[09-Aug-2023 07:56:26 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[09-Aug-2023 07:56:40 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[09-Aug-2023 07:56:40 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[09-Aug-2023 07:56:40 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 46
+[09-Aug-2023 07:56:40 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 47
+[09-Aug-2023 07:56:40 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49
+[09-Aug-2023 07:56:40 America/Los_Angeles] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/MailAPI/eMailer.php on line 49

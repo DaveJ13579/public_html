@@ -1,0 +1,39 @@
+@charset "utf-8";
+body  {
+	width:100%;
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+	text-align: left; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color: #000000;
+	font-size: 100.01%;
+	clear: none;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.SH #container {
+padding-left:10px;
+background: #ffffff;
+/*	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	font-size: 1em;
+} 
+input, select, textarea { 
+font-size: 1em;
+background: #dddddd;
+	}
+th {
+	font-weight: bold;
+}
+#waiver {
+	padding: 10px;
+	height: 150px;
+	overflow: auto;
+	border-top-width: thin;
+	border-right-width: thin;
+	border-bottom-width: thin;
+	border-left-width: thin;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12pt;
+}

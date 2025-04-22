@@ -1,0 +1,213 @@
+@charset "utf-8";
+#narrower    {
+	width: 95%;
+	padding: 10px;
+	background-color: #FFF;
+	margin-left: auto;
+	margin-right: auto;
+	border: 4px solid #666666;
+	border-radius: 2em;
+}
+#help-container {
+	width: 90%;
+	font-size: 0.8em;
+	margin-top: 5%;
+	margin-right: auto;
+	margin-bottom: 5%;
+	margin-left: auto;
+}
+.branchhelp { 	float:right; width:60px; background-color:#0080b2; color:white;text-align:center;padding:10px;}
+body  {
+	color:#000000;
+	margin: 0; 
+	padding: 0;
+	text-align: left; 
+	font-size: 100.01%;
+	clear: none;
+	font-family: Arial, Helvetica, sans-serif; }
+#container {
+	width: 100%; 
+	background: #666666; 
+	border: 4px solid #666666;
+	font-size: .8em;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto; } 
+#mainContent {
+	padding: 5px;
+	width: 100%;
+	overflow: auto;}
+#header {
+	width: 100%; }
+input:focus {background-color:#e1e1fa;}
+textarea:focus {background-color:#e1e1fa;}
+#Navigation {
+	width: auto;
+	text-align: center;
+	height: auto;
+	padding: 5px; }
+#Navigation a:link {
+	text-decoration: none; }
+#Navigation a:visited {
+	text-decoration: none; }
+#Navigation a:hover {
+	text-decoration: underline; }
+.bold { font-weight: bold; }
+h2 { font-size: 1.8em; }
+th { text-align: center;
+	line-height: 1em;
+	padding: 3px; }
+tr { padding: 2px;
+	height: 0.8em; }
+th a:link {
+	color: #F2F2F2;
+	text-decoration: underline; }
+th a:visited { 
+	color: #F2F2F2;
+	text-decoration: underline; }
+th a:hover {
+	color: #000000;
+	text-decoration: underline; }
+.centercell { text-align: center; }
+#sort tr td {
+	font-weight: bold;
+	padding: 10px;
+	text-align: center; }
+#rostercrit {
+	float: left;
+	width: 610px;
+	height: 380px; }
+#regiscrit {
+	float: right;
+	width: 610px;
+	height: 380px; }
+#output {
+	width: 600px;
+	margin-left: 320px;
+	margin-right: 330px;
+	margin-top: 0px;
+	padding: 10px;
+	background-color: #f8f8f8;
+}
+.donerow {
+	background-color: #BDB697;
+	padding: 2px;
+	height: 0.8em; }
+.notdonerow {
+	background-color: #E3DBB6;
+	padding: 2px;
+	height: 0.8em; }
+#caltable {
+	width: 700px;	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+#caltable tr {
+	height: 150px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	vertical-align: top;
+}
+#caltable tr td {width: 100px;}
+.pop {
+	float: right;
+	display: none;
+	width: 455px;
+	height: 655px;
+	overflow: auto;
+	padding: 5px;
+}
+#list {
+	float: left;
+	height: 600px;
+	width: 720px;
+	overflow: scroll;
+}
+#harvests tr td {
+	padding-left: 5px;
+	padding-right: 5px;
+}
+#harvests tr:hover {  background-color: #bbbbbb;}
+
+#filtswitchdiv {
+	width: 700px;
+	height: 55px;
+	float: left;
+}
+#filtersdiv {
+	float: left;
+	width: 500px;
+	height: 55px;
+}
+#calswitchdiv {
+	width: 200px;
+	height: 55px;
+	float: right;
+}
+#listswitchdiv {
+	width: 200px;
+	height: 55px;
+	float: right;
+}
+
+#calendar {
+	height: 600px;
+	width: 750px;
+	overflow: scroll;
+}
+#cell {
+	width: 100px;
+}#cell tr {
+	height: 1pt;
+	background-color: #DBFEFF;
+}
+#cell tr td {
+	height: 1pt;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	padding-left: 3px;
+}
+.pagehead {
+	font-size: 2em;
+	font-weight: bold;
+}
+/* Always place new style definitions before here.
+Start of appended color values xxx*/
+body {background-color:#b9baa0;}
+#mainContent {background-color:#ffffff;}
+#mainContent {color: #000000;}
+a:link { color: #000000; }
+a:visited { color: #000000; }
+a:hover { color: #0080b2; }
+a:active { color: #000000; }
+#Navigation {background-color: #34571b;}
+#Navigation {color: #b9baa0;}
+#Navigation a:link {	color: #d9dac0;}
+#Navigation a:visited {color: #d9dac0;}
+#Navigation a:hover {color: #d9dac0;}
+tr { background-color: #f9fae0;}
+tr 	{color: #000000;}
+th { background-color: #0080b2;}
+th { color: #d9dac0;}
+th a:link {color: #d9dac0;}
+th a:visited {	color: #d9dac0;}
+th a:hover {color: #b9b9a0;}
+.donerow {background-color: #b9baa0;}

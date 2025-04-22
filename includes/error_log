@@ -1,0 +1,67 @@
+[26-Feb-2024 03:59:39 America/Boise] PHP Warning:  require_once(Connections/piercecty.php): Failed to open stream: No such file or directory in /home3/piercec4/public_html/includes/AdminNav1.inc.php on line 18
+[26-Feb-2024 03:59:39 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'Connections/piercecty.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/piercec4/public_html/includes/AdminNav1.inc.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/piercec4/public_html/includes/AdminNav1.inc.php on line 18
+[26-Feb-2024 03:59:40 America/Boise] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/piercec4/public_html/includes/AdminNav2.inc.php on line 17
+[26-Feb-2024 03:59:40 America/Boise] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/piercec4/public_html/Connections/piercecty.php on line 1
+[26-Feb-2024 02:59:40 America/Los_Angeles] PHP Warning:  Undefined array key "MM_Username" in /home3/piercec4/public_html/includes/AdminNav2.inc.php on line 20
+[26-Feb-2024 03:59:40 America/Boise] PHP Warning:  require_once(../../Connections/piercecty.php): Failed to open stream: No such file or directory in /home3/piercec4/public_html/includes/AdminNav3.inc.php on line 18
+[26-Feb-2024 03:59:40 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required '../../Connections/piercecty.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/piercec4/public_html/includes/AdminNav3.inc.php:18
+Stack trace:
+#0 {main}
+  thrown in /home3/piercec4/public_html/includes/AdminNav3.inc.php on line 18
+[26-Feb-2024 03:59:45 America/Boise] PHP Warning:  require_once(includes/dencode.inc.php): Failed to open stream: No such file or directory in /home3/piercec4/public_html/includes/cron.inc.php on line 3
+[26-Feb-2024 03:59:45 America/Boise] PHP Fatal error:  Uncaught Error: Failed opening required 'includes/dencode.inc.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/piercec4/public_html/includes/cron.inc.php:3
+Stack trace:
+#0 {main}
+  thrown in /home3/piercec4/public_html/includes/cron.inc.php on line 3
+[26-Feb-2024 03:59:46 America/Boise] PHP Warning:  Undefined variable $customfield in /home3/piercec4/public_html/includes/customtxt.inc.php on line 3
+[26-Feb-2024 03:59:46 America/Boise] PHP Warning:  Undefined variable $piercecty in /home3/piercec4/public_html/includes/customtxt.inc.php on line 5
+[26-Feb-2024 03:59:46 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/piercec4/public_html/includes/customtxt.inc.php:5
+Stack trace:
+#0 /home3/piercec4/public_html/includes/customtxt.inc.php(5): mysqli_query(NULL, 'select pagetext...')
+#1 {main}
+  thrown in /home3/piercec4/public_html/includes/customtxt.inc.php on line 5
+[26-Feb-2024 03:59:48 America/Boise] PHP Warning:  Undefined variable $piercecty in /home3/piercec4/public_html/includes/hittracker.inc.php on line 16
+[26-Feb-2024 03:59:48 America/Boise] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/piercec4/public_html/includes/hittracker.inc.php:16
+Stack trace:
+#0 /home3/piercec4/public_html/includes/hittracker.inc.php(16): mysqli_query(NULL, 'INSERT INTO hit...')
+#1 {main}
+  thrown in /home3/piercec4/public_html/includes/hittracker.inc.php on line 16
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Undefined variable $MM_authorizedUsers in /home3/piercec4/public_html/includes/levelcheck.php on line 3
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Undefined variable $MM_restrictGoTo in /home3/piercec4/public_html/includes/levelcheck.php on line 10
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Undefined variable $MM_authorizedUsers in /home3/piercec4/public_html/includes/levelcheck.php on line 3
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Undefined variable $MM_restrictGoTo in /home3/piercec4/public_html/includes/levelcheck.php on line 10
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Undefined variable $MM_authorizedUsers in /home3/piercec4/public_html/includes/levelcheck.php on line 3
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Undefined variable $MM_restrictGoTo in /home3/piercec4/public_html/includes/levelcheck.php on line 10
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Undefined variable $MM_authorizedUsers in /home3/piercec4/public_html/includes/levelcheck.php on line 3
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Undefined variable $MM_restrictGoTo in /home3/piercec4/public_html/includes/levelcheck.php on line 10
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Undefined variable $MM_authorizedUsers in /home3/piercec4/public_html/includes/levelcheck.php on line 3
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[26-Feb-2024 03:59:50 America/Boise] PHP Warning:  Undefined variable $MM_restrictGoTo in /home3/piercec4/public_html/includes/levelcheck.php on line 10
+[26-Feb-2024 03:59:51 America/Boise] PHP Warning:  Undefined variable $MM_authorizedUsers in /home3/piercec4/public_html/includes/levelcheck.php on line 3
+[26-Feb-2024 03:59:51 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[26-Feb-2024 03:59:51 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[26-Feb-2024 03:59:51 America/Boise] PHP Warning:  Undefined variable $MM_restrictGoTo in /home3/piercec4/public_html/includes/levelcheck.php on line 10
+[26-Feb-2024 03:59:51 America/Boise] PHP Warning:  Undefined variable $MM_authorizedUsers in /home3/piercec4/public_html/includes/levelcheck.php on line 3
+[26-Feb-2024 03:59:51 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[26-Feb-2024 03:59:51 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[26-Feb-2024 03:59:51 America/Boise] PHP Warning:  Undefined variable $MM_restrictGoTo in /home3/piercec4/public_html/includes/levelcheck.php on line 10
+[26-Feb-2024 03:59:51 America/Boise] PHP Warning:  Undefined variable $MM_authorizedUsers in /home3/piercec4/public_html/includes/levelcheck.php on line 3
+[26-Feb-2024 03:59:51 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[26-Feb-2024 03:59:51 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[26-Feb-2024 03:59:51 America/Boise] PHP Warning:  Undefined variable $MM_restrictGoTo in /home3/piercec4/public_html/includes/levelcheck.php on line 10
+[26-Feb-2024 03:59:51 America/Boise] PHP Warning:  Undefined variable $MM_authorizedUsers in /home3/piercec4/public_html/includes/levelcheck.php on line 3
+[26-Feb-2024 03:59:51 America/Boise] PHP Warning:  Undefined variable $_SESSION in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[26-Feb-2024 03:59:51 America/Boise] PHP Warning:  Trying to access array offset on value of type null in /home3/piercec4/public_html/includes/levelcheck.php on line 4
+[26-Feb-2024 03:59:51 America/Boise] PHP Warning:  Undefined variable $MM_restrictGoTo in /home3/piercec4/public_html/includes/levelcheck.php on line 10

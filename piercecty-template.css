@@ -1,0 +1,260 @@
+@charset "utf-8";
+body  {
+	margin: 0; 
+	padding: 0;
+	text-align: left;
+	color: #bodycolor;
+	font-size: 100.01%;
+	clear: none;
+	font-family: Arial, Helvetica, sans-serif;
+	background: #bodybg1; /* Old browsers */
+	background: -moz-linear-gradient(top,  #bodybg1 0%, #bodybg2 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#bodybg1), color-stop(100%,#bodybg2)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #bodybg1 0%,#bodybg2 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #bodybg1 0%,#bodybg2 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #bodybg1 0%,#bodybg2 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #bodybg1 0%,#bodybg2 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bodybg1', endColorstr='#bodybg2',GradientType=0 ); /* IE6-9 */
+}
+.SH #container {
+	width: 900px; 
+	background: #containerbg;
+	margin: 0 auto;
+	border: 2px solid #containerborder;
+	font-size: 1em;
+} 
+#header {
+	padding: 0;  
+	margin: 10px;
+} 
+#about	img {
+	box-shadow: 4px 4px 8px rgba(0,0,0,.75);
+	margin-left:5px;
+	margin-bottom:10px;
+}
+.SH #sidebar1 {
+	float: right;
+	width: 200px;
+	color: #sidecolor;
+	font-family: "Times New Roman", Times, serif;
+	font-style: normal;
+	font-size: 0.9em;
+	border-top-style: none;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 30px;
+	background: #sidebg1; /* Old browsers */
+	background: -moz-linear-gradient(top,  #sidebg1 0%, #sidebg2 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#sidebg1), color-stop(100%,#sidebg2)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #sidebg1 0%,#sidebg2 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #sidebg1 0%,#sidebg2 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #sidebg1 0%,#sidebg2 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #sidebg1 0%, #sidebg2 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#sidebg1', endColorstr='#sidebg2',GradientType=0 ); /* IE6-9 */
+
+	border-left-style: none;
+	height: 620px;
+	text-align: center;
+}
+.SH #mainContent {
+	margin-top: 0;
+	margin-right: 20px;
+	margin-bottom: 0px;
+	margin-left: 0;
+	padding-top: 0px;
+	padding-right: 30px;
+	padding-bottom: 0px;
+	padding-left: 30px;
+} 
+.SH #mainContent a:link { color: #mainlink; }
+.SH #mainContent p a:visited { 	color: #mainvisit; text-decoration: none; }
+.SH #mainContent p a:hover { 	color: #mainhover; 	text-decoration: underline; }
+
+.clearfloat {
+	clear:both;
+    height:0;
+    font-size: 1px;
+    line-height: 0px;
+}
+input:focus {background-color:#inputfocs;}
+textarea:focus {background-color:#textfocus;}
+h1 {	font-size: 1.5em;}
+h3 {
+	font-size: 1.3em;
+	font-weight: bold;
+	color: #h3color;
+}
+h4 {
+	font-size: 1em;
+	font-weight: bold;
+	padding-top: 0.4em;
+	color: #h1color;
+}
+ul {	list-style-type: disc;}
+th {	font-weight: bold;  background-color: #thbg; color: #thcolor; text-align:center;}
+td {	background-color: #rowbg; color: #rowcolor; }
+a img {outline : none;}
+img {border : 0;}
+
+.center_cell {	text-align: center;}
+#indent {	margin-left: 25px;	width: 525px;}
+#levels {	float: left;}
+.indentdiv {
+	margin-left: 50px;
+	background-color: #indentdivbg;
+	padding: 10px;
+	border: 3px solid indentdivb;
+}
+#footer {
+	background-color:#footerbg; 
+	font-size: 12px; 
+	color: #footercolor; 
+	padding:5px;
+	height:18px;
+}
+#flyout {
+	padding:0px;
+	margin:0px 0 0 0;
+	list-style:none;
+	width:180px;
+	position: relative;
+	z-index: 100;
+}
+#flyout ul {padding:0; margin:0; list-style:none; width:180px; height:40px;  position:absolute; left:-9999px; top:0;}
+#flyout li { margin-bottom:10px; height:40px; 	}
+#flyout li a {
+	display:block;
+	text-align:center;
+	width:170px;
+	margin-bottom:20px;
+	height:20px;
+	color:#flycolor;
+	line-height:20px;
+	font-family:Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	padding-right:10px;
+	background-repeat: no-repeat;
+}
+#flown li { margin-bottom:-4px;}
+#flyout li:hover { 	position:relative; }
+#flyout li:hover > a { 	font-weight:bold; }
+#flyout :hover ul, #flyout :hover ul :hover ul { 	left:-180px; 	text-align: right; }
+#lefttext { 	width: 560px; 	margin-left: 15px; 	z-index: -2; }
+
+.spacer {width:65px;float:left;}
+.navigation { width:900px; }
+        .navigation ul{
+        /* positioning */
+        	position:relative;
+            z-index:1000;
+        /* remove the dots next to list items: */
+            list-style:none; 
+        /* get rid of any default or inherited margins and padding: */
+            margin:0; 
+            padding:0;            
+        /* styling: */
+            font-family: Arial, Helvetica, sans-serif;
+            font-weight: normal;
+            font-size: 18px;
+        }
+        /* we're using the direct descendant selectors > to ONLY affect the main menu items */
+        .navigation > ul > li {
+        /* positioning */ 
+            position: relative;
+            float: left;
+        /* styling: */
+	        /* margin-right: 1px; */
+			margin-left:20px;	
+        }
+        .navigation > ul > li > a {
+        /* positioning */ 
+            display:block;
+        /* styling: */
+            background-color: #navbg;
+            padding:8px 14px;
+			text-decoration:none;
+            color:#navcolor; 		
+        }
+        .navigation > ul > li > a:hover{ styling: background-color:#navhoverbg; }
+		.navigation ul ul{
+            width:340px; /* you need a width to accommodate tertiary menus */
+            position:absolute;
+            z-index:100;
+            height: 0;
+            overflow: hidden;
+        }       
+        /* don't display tertiary box yet */
+        .navigation > ul > li:hover ul ul, .navigation > ul > li > a:hover ul ul{
+            height:0;          
+        }
+        /* tertiary drop-down box */
+        .navigation ul ul ul{
+            left:170px;
+            width:170px;
+        }        
+        .navigation > ul > li:hover ul, .navigation > ul > li > a:hover ul,
+        .navigation ul ul li:hover > ul, .navigation ul ul li a:hover > ul{
+            height:220px; /* need a height to accommodate any tertiary menus */
+        }     
+        /* drop-down item styles */
+        /* if you want different styling for tertiary menus, just copy the 4 rules below and insert an additional ul: for example: ".navigation ul ul li", becomes: ".navigation ul ul ul li" */
+        .navigation ul ul li{
+			/* border:1px solid #aaaaaa; */
+			/*border-radius:3px;  */
+            background-color:#navbg;
+            width:170px;
+        }      
+        .navigation ul a:hover { background-color:#navhoverbg; /* lighter  */  }      
+        .navigation ul ul li a {
+            display:block;
+            text-decoration:none;
+            margin:0px 0px;
+            padding:5px 12px;
+            color:#navcolor; /* white */
+        }
+        .navigation ul ul li a:hover, .navigation ul ul li:hover > a { color:#navcolor; /* white */ }
+.navdiv {
+height:36px;
+padding:3px;
+background-color:#navbg;
+}
+.button {
+    display: inline-block;
+	width:82px;
+    outline: none;
+	cursor: pointer;
+	border: solid 1px #buttonb;
+	color:#buttoncolor !important;
+	  background-color: #buttonbg1; /* fallback color if gradients are not supported */
+	  background-image: -webkit-linear-gradient(top,#buttonbg1, #buttonbg2); /* For Chrome 25 and Safari 6, iOS 6.1, Android 4.3 */
+	  background-image:    -moz-linear-gradient(top, #buttonbg1, #buttonbg2); /* For Firefox (3.6 to 15) */
+	  background-image:      -o-linear-gradient(top,#buttonbg1, #buttonbg2); /* For old Opera (11.1 to 12.0) */ 
+	  background-image:         linear-gradient(to bottom, #buttonbg1 , #buttonbg2); /* Standard syntax; must be last */	
+	  filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#buttonbg1', endColorstr='#buttonbg2');
+	text-align: center;
+	text-decoration: none;
+	font: 14px/100% Arial, Helvetica, sans-serif;
+	padding: .5em 0em .55em;	
+/*    text-shadow: 0 1px 1px rgba(0,0,0,.8); */
+	-webkit-border-radius: .8em; 
+	-moz-border-radius: .8em;
+	border-radius: .8em;
+/*	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	box-shadow: 0 1px 2px rgba(0,0,0,.2); */
+}
+.button:link { color:#buttonlink !important;}
+.button:visited {color:#buttonvisit !important;}
+.button:hover {
+  color:#buttonhover !important;
+  background-color: #buttonhovbg1; /* fallback color if gradients are not supported */
+  background-image: -webkit-linear-gradient(top,#buttonhovbg1, #buttonhovbg2); /* For Chrome 25 and Safari 6, iOS 6.1, Android 4.3 */
+  background-image:    -moz-linear-gradient(top, #buttonhovbg1, #buttonhovbg2); /* For Firefox (3.6 to 15) */
+  background-image:      -o-linear-gradient(top,#buttonhovbg1, #buttonhovbg2); /* For old Opera (11.1 to 12.0) */ 
+  background-image:         linear-gradient(to bottom, #buttonhovbg1 , #buttonhovbg2); /* Standard syntax; must be last */	
+  filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#buttonhovbg1', endColorstr='#buttonhovbg2');}
+.button:active {
+	color:#buttonactivecolor !important;
+	position: relative;
+	top: 1px;
+}
